@@ -6,6 +6,9 @@
   background-position: center;
 
   color: #FFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #splash h2 {
